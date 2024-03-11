@@ -4,7 +4,7 @@ If you are interested in source code and have the ability to develop it, you can
 
 https://github.com/LontenTechnology/Lrobruya_iBot_Programming_Education_Robot_Car_LTARK_49
 
-<img src='清单.png' width='100%'/>
+<img src='DSC_0180.JPG' width='100%'/>
 
 ### Download
 
